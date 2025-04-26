@@ -12,4 +12,4 @@ This project showed how computer science is about designing intelligent, scalabl
 I broke the problem into parts—starting with understanding the environment, then coding and testing the training loop piece by piece within jupyter notebook.
 
 ## Ethical Responsibilities
-It's important that computer scientists design systems that are safe, unbiased and ethical. Developers should have privacy, fairness, and transparency in mind throughout the entire process, from brainstorming, development, testing and maintenance. These values and ethics must always be prioritized for a valuable and trustworthy product or srevice.
+It's important that computer scientists design systems that are safe, unbiased and ethical. Developers should have privacy, fairness, and transparency in mind throughout the entire process, from brainstorming, development, testing and maintenance. These values and ethics must always be prioritized for a valuable and trustworthy product and/or service.
